@@ -1,4 +1,5 @@
 # my-portfolio
 
 
-This is my demo portfolio. To be edited
+Welcome to the repository for my personal portfolio website! 
+
